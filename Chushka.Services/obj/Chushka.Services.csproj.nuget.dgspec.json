@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Services\\Chushka.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\Chushka.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\Chushka.Data.Models.csproj",
+        "projectName": "Chushka.Data.Models",
+        "projectPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\Chushka.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Blagovest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Blagovest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\Chushka.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\Chushka.Data.csproj",
+        "projectName": "Chushka.Data",
+        "projectPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\Chushka.Data.csproj",
+        "packagesPath": "C:\\Users\\Blagovest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Blagovest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\Chushka.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data.Models\\Chushka.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Services\\Chushka.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Services\\Chushka.Services.csproj",
+        "projectName": "Chushka.Services",
+        "projectPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Services\\Chushka.Services.csproj",
+        "packagesPath": "C:\\Users\\Blagovest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Blagovest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\Chushka.Data.csproj": {
+                "projectPath": "C:\\Users\\Blagovest\\Desktop\\IT_Career\\Web\\Chushka\\Chushka.Data\\Chushka.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

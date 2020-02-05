@@ -1,0 +1,8 @@
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\bin\Debug\netcoreapp3.1\Chushka.Data.Models.deps.json
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\bin\Debug\netcoreapp3.1\Chushka.Data.Models.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\bin\Debug\netcoreapp3.1\Chushka.Data.Models.pdb
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\obj\Debug\netcoreapp3.1\Chushka.Data.Models.csprojAssemblyReference.cache
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\obj\Debug\netcoreapp3.1\Chushka.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\obj\Debug\netcoreapp3.1\Chushka.Data.Models.AssemblyInfo.cs
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\obj\Debug\netcoreapp3.1\Chushka.Data.Models.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Data.Models\obj\Debug\netcoreapp3.1\Chushka.Data.Models.pdb

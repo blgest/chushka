@@ -1,0 +1,13 @@
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Services.deps.json
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Services.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Services.pdb
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Data.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Data.Models.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Data.pdb
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\bin\Debug\netcoreapp3.1\Chushka.Data.Models.pdb
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.csprojAssemblyReference.cache
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.AssemblyInfoInputs.cache
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.AssemblyInfo.cs
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.csproj.CopyComplete
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.dll
+C:\Users\Blagovest\Desktop\IT_Career\Web\Chushka\Chushka.Services\obj\Debug\netcoreapp3.1\Chushka.Services.pdb
